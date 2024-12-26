@@ -87,6 +87,10 @@ Die Win-Win Situation:
     Nature-based-solution-initiative: https://casestudies.naturebasedsolutionsinitiative.org/
 
 
+Welche Baumarten kommen im zukünftigen Klima gut klar?
+
+    A climate-induced tree species bottleneck for forest management in Europe: https://www.nature.com/articles/s41559-024-02406-8#MOESM1
+
 Artikel zu Zertifikaten aus Waldprojekten:
   
     Carbon-offsets are worthless - Guardian: https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe
