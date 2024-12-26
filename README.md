@@ -46,6 +46,7 @@ Waldstörungen im Klimawandel & in Europa
 
     Forest disturbances under climate change: https://www.nature.com/articles/nclimate3303 
     Risk of natural disturbances makes future contribution of Canada’s forests to the global carbon cycle highly uncertain: https://www.pnas.org/doi/pdf/10.1073/pnas.0708133105
+    Global burned area increasingly explained by climate change: https://www.nature.com/articles/s41558-024-02140-w
     Mapping the forest disturbance regimes of Europe: https://www.nature.com/articles/s41893-020-00609-y
 
 Erholung von Wald nach Störungen:
