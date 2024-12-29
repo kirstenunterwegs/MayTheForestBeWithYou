@@ -63,7 +63,7 @@ Wo Bäume pflanzen nicht immer eine gute Idee ist:
 
     Tree planting is no climate solution at northern high latitudes: https://www.nature.com/articles/s41561-024-01573-4
 
-  Afforestation & increades distrubance risks:
+  Afforestation & increased distrubance risks:
   
     Stevens & Bonds (2024). Trends in Ecology and Evolution: https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00246-X
     Gómez-González et al. (2024). Trends in Ecology and Evolution: https://www.sciencedirect.com/science/article/abs/pii/S0169534723002458
