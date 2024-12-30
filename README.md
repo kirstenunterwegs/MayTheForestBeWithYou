@@ -3,6 +3,11 @@ Folien zu meinem Vortrag "May the forest be with you - Bäume pflanzen gegen die
 
 Weiterführende Links und Veröffentlichungen + Veröffentlichungen zitiert in der Präsentation:
 
+## For the Techie-Affinados:
+The UNDP (United Nations Development Programme) works on a National carbon registry for a hopefully standardized, controlled and helpful carbon "management" scheme. They have a contact for people who would like to help in the development, so if you are interested, take a dive into this repo: 
+
+        https://github.com/undp/carbon-registry
+
 Übersichts & Diskussions-Veröffentlichungen zu "Nature-based climate solutions" (die auch Wälder wiederherstelen beinhalten)
 
     Nature-based solutions can help cool the planet — if we act now: https://www.nature.com/articles/d41586-021-01241-2 //  https://ora.ox.ac.uk/objects/uuid:46ceb04d-84b0-49b1-bb44-274b344441bb/files/r9g54xh916
