@@ -8,7 +8,7 @@ The UNDP (United Nations Development Programme) works on a National carbon regis
 
         https://github.com/undp/carbon-registry
 
-## Übersichts & Diskussions-Veröffentlichungen zu "Nature-based climate solutions" (die auch Wälder wiederherstelen beinhalten)
+## Übersichts & Diskussions-Veröffentlichungen zu "Nature-based climate solutions" (die auch Wälder wiederherstellen beinhalten)
 
     Nature-based solutions can help cool the planet — if we act now: https://www.nature.com/articles/d41586-021-01241-2 //  https://ora.ox.ac.uk/objects/uuid:46ceb04d-84b0-49b1-bb44-274b344441bb/files/r9g54xh916
     Guidance for successful tree planting initiatives: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13725
