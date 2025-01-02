@@ -8,7 +8,7 @@ The UNDP (United Nations Development Programme) works on a National carbon regis
 
         https://github.com/undp/carbon-registry
 
-Übersichts & Diskussions-Veröffentlichungen zu "Nature-based climate solutions" (die auch Wälder wiederherstelen beinhalten)
+## Übersichts & Diskussions-Veröffentlichungen zu "Nature-based climate solutions" (die auch Wälder wiederherstelen beinhalten)
 
     Nature-based solutions can help cool the planet — if we act now: https://www.nature.com/articles/d41586-021-01241-2 //  https://ora.ox.ac.uk/objects/uuid:46ceb04d-84b0-49b1-bb44-274b344441bb/files/r9g54xh916
     Guidance for successful tree planting initiatives: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13725
@@ -17,6 +17,8 @@ The UNDP (United Nations Development Programme) works on a National carbon regis
     From Tree Planting to Tree Growing: Rethinking Ecosystem Restoration Through Trees: https://cgspace.cgiar.org/server/api/core/bitstreams/4ba9bdf7-dc8e-4222-932f-e700e85c76cb/content
     Kommentar: Restoring natural forests is the best way to remove atmospheric carbon: https://www.nature.com/articles/d41586-019-01026-8
     The trouble with negative emissions: https://www.science.org/doi/abs/10.1126/science.aah4567  // https://pub.cicero.oslo.no/cicero-xmlui/bitstream/handle/11250/2491451/Anderson%2B%2BPeters%2B2016%2B-%2BNegativeEmissions.pdf?sequence=1&isAllowed=y
+
+## Themen-spezifische Literatur
 
 Das globale Kohlenstoffbudget:
 
