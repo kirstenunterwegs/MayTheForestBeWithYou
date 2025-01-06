@@ -1,6 +1,9 @@
 # MayTheForestBeWithYou
 Folien zu meinem Vortrag "May the forest be with you - Bäume pflanzen gegen die Klimakrise?" am 29.12.2024 auf dem 38th Chaos Communication Congress
 
+Link zum Vortrag;
+https://media.ccc.de/v/38c3-may-the-forest-be-with-you-bume-pflanzen-gegen-die-klimakrise#t=126
+
 Weiterführende Links und Veröffentlichungen + Veröffentlichungen zitiert in der Präsentation:
 
 ## For the Techie-Affinados:
