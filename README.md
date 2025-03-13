@@ -72,6 +72,8 @@ Wo Bäume pflanzen nicht immer eine gute Idee ist:
  Umweltbedingungen:
 
     Tree planting is no climate solution at northern high latitudes: https://www.nature.com/articles/s41561-024-01573-4
+    Natural tree colonisation of organo-mineral soils does not provide a net carbon capture benefit at decadal timescales: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.14861
+            Bäume auf Böden zu pflanzen, die als Böden selber viel Kohlenstoff halten, kann über Jahrzehnte hinweg zu Kohlenstoff-Verlusten anstatt Speicherung führen.
 
   Afforestation & increased distrubance risks:
   
